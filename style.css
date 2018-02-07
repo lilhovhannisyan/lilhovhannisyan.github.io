@@ -1,0 +1,58 @@
+body{
+	 background-image: url("https://scontent.fevn1-1.fna.fbcdn.net/v/t1.0-9/26219160_388238154966490_5363359426013217617_n.jpg?oh=201a1232926e014bf82613861cdf7652&oe=5B25D648")
+     
+}
+
+	
+  h1{
+  	text-align: center;
+  	color: white;
+  	font-family:century gothic;
+ 
+}
+
+  table{
+   
+   border-collapse: collapse;
+
+}
+  
+#bottom{
+  
+    float:left;
+    width: 40%;
+    height:50%;
+    background: whitesmoke;
+    text-align: justify;
+
+}
+
+#left{
+
+   	float:left;
+    width:40%;
+    height:50%; 
+    text-align: justify;
+    
+
+}
+
+.hey{
+   	color: red;
+   	font-family:Verdana;
+
+}
+.par{
+	font-size:20px;
+	font-family:century gothic;
+}
+
+
+#span1{
+	font-family:century gothic;
+	color: red;
+}
+#span2{
+	font-family:century gothic;
+	color: blue
+}
